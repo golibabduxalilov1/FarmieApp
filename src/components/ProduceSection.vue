@@ -19,7 +19,7 @@
         </h1>
 
         <div class="d-flex align-items-center mb-3">
-          <img src="./img/logo-small.webp" alt="Brand logo" />
+          <img src="../assets/img/decor.png.webp" alt="Brand logo" />
         </div>
 
         <p class="text-muted mb-4">
